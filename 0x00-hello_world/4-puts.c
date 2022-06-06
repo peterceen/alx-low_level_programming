@@ -5,9 +5,9 @@
 /**
  * main - Entry point
  *
- * Description:this programe is about c   *
+ * Description:this programe is about c
  *
- * Returns: always 0(Success)
+ * Return: Always 0(Success)
  */
 
 int main(void)
