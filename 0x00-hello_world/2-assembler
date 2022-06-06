@@ -1,2 +1,2 @@
 #!/bin/bash
-g++ -c $CFILE -o "$(echo $CFILE | cut -d . -f 1).o
+g++ -c $CFILE -o "$(echo $CFILE | cut -d . -f 1).s
