@@ -3,10 +3,9 @@
 
 
 /**
- *
  * main - Entry point
  *
- *   *
+ * Description:this programe is about c   *
  *
  * Returns: always 0(Success)
  */
