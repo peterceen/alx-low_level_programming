@@ -4,11 +4,11 @@
 
 /**
  *
- *  * main - Entry point
+ * main - Entry point
  *
  *   *
  *
- *    * Returns: always 0(Success)
+ * Returns: always 0(Success)
  */
 
 int main(void)
