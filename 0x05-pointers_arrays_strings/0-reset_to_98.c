@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main change var  value using pointer
+ * main reset_to_98
  *
- * Discription
+ * Discription convert value *n to 98
  *
  * Return 0
  */
