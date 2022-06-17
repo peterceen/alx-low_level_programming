@@ -8,7 +8,7 @@
  * Return: pointer to string
  */
 char *_strcat(char *dest, char *src)
-{	
+{
 	char *temp = dest;
 
 	while (*dest)
