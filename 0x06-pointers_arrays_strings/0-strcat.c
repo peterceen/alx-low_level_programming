@@ -2,12 +2,12 @@
 #include <studio.h>
 
 /**
- * _strcat -a function that concatenates strings
+ * _strcat - a function that concatenates strings.
  * @dest: first input string
  * @src: second input string
  * Return: pointer to string
  */
-char *_strcat(char *dest, char*src)
+char *_strcat(char *dest, char *src)
 {	
 	char *temp = dest;
 
