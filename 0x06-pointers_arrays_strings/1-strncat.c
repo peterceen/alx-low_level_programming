@@ -5,7 +5,7 @@
  *  @dest: first input string
  *  @src: second input string
  *  @n: integer input
- *  Returm: pointer to the final string
+ *  Return: pointer to the final string
  */
 char *_strncat(char *dest, char *src, int n)
 {
