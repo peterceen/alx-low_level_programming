@@ -12,13 +12,16 @@
  *
  */
 int main () {
+	write(STDOUT_FILENO, "and that piece of art is useful
+				\" - Dora Korpar, 2015-10-19\n", 59);
 
-	   FILE *fp;
+	return (1);
+	   /*FILE *fp;
 
 	      char str[] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
 	        fp = fopen("file.txt" , "w" );
 		 fwrite(str , 1 , sizeof(str) , fp );
-	       /*fclose(fp);*/
-	       return(0);
+	       fclose(fp);
+	       return(0);*/
 
 }
