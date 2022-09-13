@@ -17,7 +17,7 @@ int main(void)
 
 	char bar;
 
-	for (num = '0'; num < '9'; num++)
+	for (num = '0'; num <= '9'; num++)
 	{
 		putchar(num);
 	}
