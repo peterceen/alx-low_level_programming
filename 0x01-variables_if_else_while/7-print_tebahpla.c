@@ -13,9 +13,9 @@
 
 int main(void)
 {
-	int bar;
+	char bar;
 
-	for (bar ='z'; bar <= 'a'; bar++)
+	for (bar = 'z'; bar >= 'a'; bar--)
 	{
 		putchar(bar);
 	}
