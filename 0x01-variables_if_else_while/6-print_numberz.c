@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*
- * Main - Entry Point
+/**
+ * main - Entry Point
  *
- * Description: the function prints numbers 0 to 9
+ * Description: 'this code prints numbers 0 through 9'
  *
  * Return: Always 0(success)
  */
@@ -15,7 +15,7 @@ int main(void)
 {
 	int a;
 
-	for (a = '0'; a < '9'; a++)
+	for (a = '0'; a <= '9'; a++)
 	{
 		putchar(a);
 	}
