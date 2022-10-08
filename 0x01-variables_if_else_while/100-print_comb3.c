@@ -5,7 +5,7 @@
 /*
  * main- a programe to print two int
  *
- * Description it does not repeat intergers and is seperated by comma
+ * description - it does not repeat intergers and is seperated by comma
  *
  * Return Always(0)
  */
@@ -14,6 +14,7 @@ int main(void)
 {
 	int a;
 	int b;
+
 	for (a = '0'; a <= '9'; a++)
 	{
 		for (b = a + 1; b <= '9'; b++)
