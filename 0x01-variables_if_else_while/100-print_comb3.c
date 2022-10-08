@@ -5,7 +5,7 @@
 /*
  * main- a programe to print two int
  *
- * description - it does not repeat intergers and is seperated by comma
+ * Description: it does not repeat intergers and is seperated by comma
  *
  * Return Always(0)
  */
