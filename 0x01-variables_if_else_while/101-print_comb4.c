@@ -5,9 +5,9 @@
 /*
  * main - print three characters
  *
- * Description: prints three digits combination together without repetition
+ * description: 'prints three digits combination together without repetition'
  *
- * Return Always (0)
+ * Return: Always (0)
  */
 
 int main(void)
