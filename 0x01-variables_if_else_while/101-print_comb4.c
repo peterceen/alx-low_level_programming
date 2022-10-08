@@ -5,8 +5,7 @@
 /*
  * main - print three characters
  *
- * description - this code prints three  digits 
- * --combination together without repeating any
+ * description - prints three digits combination together without repetition
  *
  * Return Always (0)
  */
@@ -23,7 +22,7 @@ int main(void)
 		{
 			for (c = b + 1; c <= '9'; c++)
 			{
-				if(a != b && a != c && b != c)
+				if (a != b && a != c && b != c)
 				{
 					putchar (a);
 					putchar (b);

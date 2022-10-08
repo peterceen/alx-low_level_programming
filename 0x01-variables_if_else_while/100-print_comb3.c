@@ -3,9 +3,9 @@
 #include <time.h>
 
 /*
- * main- a programe to print two int
+ * main - a programe to print two int
  *
- * Description: it does not repeat intergers and is seperated by comma
+ * description: it does not repeat intergers and is seperated by comma
  *
  * Return Always(0)
  */
