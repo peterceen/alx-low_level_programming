@@ -5,7 +5,7 @@
 /*
  * main - print three characters
  *
- * description: prints three digits combination together without repetition
+ * Description: prints three digits combination together without repetition
  *
  * Return Always (0)
  */
