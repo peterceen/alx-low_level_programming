@@ -1,4 +1,4 @@
-#include <inistd.h>
+#include <unistd.h>
 
 /**
  * _putchar writes the char to standout
