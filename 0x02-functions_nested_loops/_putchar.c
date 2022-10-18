@@ -2,15 +2,20 @@
 #include "main.h"
 
 /**
- * _putchar the code
  *
- * description: write the value of c
+ * main- entry point
  *
- * return: on successs 1
+ * Return: Always 0
  */
 
-int _putchar(char c)
+int main(void)
 {
+	char word[8] = "_putchar";
+	int i;
 
-	return (write(1, &c, 1));
+	for (i = 0; i < 8; i++)
+		_putchar(word[i]);
+	_putchar('\n');
+
+	return(0);
 }
