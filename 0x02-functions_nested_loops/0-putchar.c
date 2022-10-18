@@ -2,8 +2,9 @@
 #include "main.h"
 
 /**
- *
  * main- entry point
+ *
+ * description: this code prints char
  *
  * Return: Always 0
  */
@@ -17,5 +18,5 @@ int main(void)
 		_putchar(word[i]);
 	_putchar('\n');
 
-	return(0);
+	return (0);
 }
