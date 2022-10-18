@@ -1,19 +1,19 @@
 #include "main.h"
 
 /**
- * _abs -the modulo
+ * _abs - the modulo
+ * @c: an input parameter
  *
- * description: this converts all values to absolute values
+ * Description: This function returns absolute value of a number
  *
- * return: Always 0.
+ * Return: Absolute value of number c.
  */
 
 int _abs(int c)
 {
-	int a = -1;
 	if (c < 0)
 	{
-		c = c/a;
+		c = c * -1;
 	}
 	return (c);
 }
