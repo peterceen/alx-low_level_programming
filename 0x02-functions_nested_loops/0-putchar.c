@@ -2,14 +2,20 @@
 #include "main.h"
 
 /**
- * _putchar writes the char to standout
  *
- * Return: success 1
+ * main- entry point
  *
+ * Return: Always 0
  */
 
-int _putchar(char c)
+int main(void)
 {
-	return(write (1, &c, 1));
+	char word[8] = "_putchar";
+	int i;
 
+	for (i = 0; i < 8; i++)
+		_putchar(word[i]);
+	_putchar('\n');
+
+	return(0);
 }
