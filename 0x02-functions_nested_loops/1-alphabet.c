@@ -3,7 +3,7 @@
 /**
  * main -entry point of code print_alphabet
  *
- * Description : this code prints_alphabet
+ * description: this code prints_alphabet
  *
  * return Always(0)
  */
