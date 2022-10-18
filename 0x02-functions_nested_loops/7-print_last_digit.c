@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_last_digit - code prototype
- *
+ * print_last_digit- code prototype
+ * @c: an input character
  * description: this code prints the last value of imput
  * string
  *
- * return: Always 0.
+ * Return: last digit of number c.
  */
 
 int print_last_digit(int c)
