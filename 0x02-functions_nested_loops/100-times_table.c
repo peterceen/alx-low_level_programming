@@ -20,7 +20,7 @@ void print_times_table(int n)
 			_putchar('0');
 
 			for (j = 1; j <= n; j++)
-				tableformat(i*j);
+				tableformat(i * j);
 			_putchar('\n');
 		}
 	}
@@ -29,7 +29,7 @@ void print_times_table(int n)
 
 /**
  * tableformat - formatted characters to output
- * @a: number to format
+ * @n: number to format
  * Return: nothing
  */
 
