@@ -13,9 +13,9 @@ int main(void)
 	int a;
 	int b;
 	int c;
-	char *ch1 = "fizz";
-	char *ch2 = "buzz";
-	char *ch3 = "fizzbuzz";
+	char *ch1 = "Fizz";
+	char *ch2 = "Buzz";
+	char *ch3 = "FizzBuzz";
 
 	for (a = 1; a <= 100; a++)
 	{
