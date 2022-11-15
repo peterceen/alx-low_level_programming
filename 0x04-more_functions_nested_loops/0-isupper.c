@@ -4,8 +4,7 @@
  * _isupper -the function
  *
  * @c:the input parameter
- *
- * Description: value based on letter case
+ * description: value based on letter case
  *
  * return (0 or 1)
  */
