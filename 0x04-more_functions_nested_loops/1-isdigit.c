@@ -1,8 +1,11 @@
 #include "main.h"
 
-/* _isdigit - A function that checks for digits
+/*
+ * _isdigit - A function that checks for digits
  *
  * @c: input parameter
+ *
+ * description: a code to check digits
  *
  * return 1 if c is digit or 0 if otherwise.
  */
