@@ -37,7 +37,6 @@ int main(void)
 		else
 			printf("%d", a);
 		printf("%c", ' ');
-	}
-	printf("%c", '\n');
+	}printf("%c", '\n');
 	return (0);
 }
